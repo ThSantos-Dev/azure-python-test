@@ -29,5 +29,7 @@
         "env.bak{,/**}",
         "venv.bak{,/**}",
         ".vscode{,/**}"
-    ]
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/1be8b643-67ee-4edd-80e2-9b2100cb6950/microsoft.web/sites/subscriptions/1be8b643-67ee-4edd-80e2-9b2100cb6950/resourceGroups/teste-python-azure/providers/Microsoft.Web/sites/pyhton-teste-azure",
+    "appService.deploySubpath": "."
 }
